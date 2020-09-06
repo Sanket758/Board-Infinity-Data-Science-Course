@@ -1,0 +1,9 @@
+Quiz_1    38
+Quiz_2    41
+Name: greaterthan80, dtype: int64
+Quiz_1    38
+Quiz_2    41
+Name: greaterthan80, dtype: int64
+Quiz_1    38
+Quiz_2    41
+Name: greaterthan80, dtype: int64
